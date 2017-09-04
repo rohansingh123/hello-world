@@ -1,2 +1,1 @@
-# hello-world
-Example Repository
+Hello I am Vigyat.I am new to GitHub
